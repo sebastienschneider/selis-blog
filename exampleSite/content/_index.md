@@ -10,4 +10,4 @@ C'est une page très personnelle.
 
 ---
 
-Built with [Hugo](https://gohugo.io) and the [Bear Blog](https://github.com/janraasch/hugo-bearblog/) theme. Hosted on [Netlify](https://www.netlify.com).
+Built with [Hugo](https://gohugo.io) and the [Bear Blog](https://github.com/janraasch/hugo-bearblog/) theme. Hosted on [Cloudflare](https://www.cloudflare.com/fr-fr/).
