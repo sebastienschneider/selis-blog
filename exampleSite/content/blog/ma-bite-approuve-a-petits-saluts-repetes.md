@@ -3,11 +3,11 @@ title = "Ma bite  approuve à petits saluts répétés"
 date = "2020-02-04"
 description = "Ma bite approuve à petits saluts répétés"
 tags = [
-    "Francoise Rey",
     "Exhibition",
     "Fellation",
 ]
 +++
+["La brûlure de la neighe", paragraphe 3 - Françoise Rey]()
 
 Ma bite approuve à petits saluts
 répétés. Je joins mes hochements
