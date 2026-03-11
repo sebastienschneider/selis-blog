@@ -3,13 +3,13 @@ title = "Elle est nue, toute nue"
 date = "2020-01-03"
 description = "Elle est nue, toute nue"
 tags = [
-    "Francoise Rey",
     "Exhibition",
 ]
 +++
 
+["La brûlure de la neige", paragraphe 3 - Françoise Rey]()
 
- Elle est nue, toute nue,
+Elle est nue, toute nue,
 plus nue que lorsque sa
 combinaison est tombée, plus nue
 qu’avant le bain, ses cuisses
