@@ -1,5 +1,5 @@
 baseURL = "https://selis.pages.dev/"
-theme = 'hugo-bearblog'
+theme = "hugo-bearblog"
 
 title = "Seli's Blog"
 author = "Seli"
@@ -8,11 +8,24 @@ languageCode = "en-US"
 
 enableRobotsTXT = true
 
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   blog = "/:slug/"
-  tags = "/blog/:slug"
+  tags = "/blog/:slug/"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
 
 [params]
   description = "Thoughts on technology, development, and the web."
@@ -24,7 +37,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [markup]
   [markup.highlight]
-    style = 'dracula'
+    style = "dracula"
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
