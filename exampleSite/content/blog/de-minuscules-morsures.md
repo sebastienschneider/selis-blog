@@ -3,7 +3,6 @@ title = "De minuscules morsures, pour érotiser ma peau"
 date = "2026-02-11" 
 description = "De minuscules morsures, pour érotiser ma peau"
 tags = [ 
-"Francoise Rey", 
 "morsures", 
 ] 
 +++
