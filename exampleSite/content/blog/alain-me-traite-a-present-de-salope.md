@@ -3,10 +3,10 @@ title = "Alain me traite à présent de salope"
 date = "2026-02-06" 
 description = "Alain me traite à présent de salope"
 tags = [ 
-"Francoise Rey", 
 "seins", 
 ] 
 +++
+["Extase de femmes", 'Basta' - Noémie Ray]()
 
 M’ayant explorée
 jusque-là sans se presser, Alain me
