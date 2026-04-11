@@ -7,7 +7,8 @@
   </small>
   {{ end }}
   <ul class="blog-posts">
-    {{ range .Pages }}
+    {{ $paginator := .Paginate (where .Pages "Type" "blog") 10 }}
+    {{ range $paginator.Pages }}
     <li>
       <span>
         <i>
